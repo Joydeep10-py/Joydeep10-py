@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student specializing in AI/ML and Java-based Data Structures and Algorithms. I am passionate about developing robust full-stack applications and architecting data pipelines to solve real-world problems through high-performance code
+Computer Science student specializing in AI/ML and Java-based Data Structures and Algorithms. I am passionate about developing robust full-stack applications and architecting data pipelines to solve real-world problems through high-performance code.
 
 
 ## 🌐 Socials:
